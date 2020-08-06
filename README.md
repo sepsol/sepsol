@@ -19,40 +19,40 @@
 
 ## Languages and Tools:
 <!-- Visual Studio -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/VisualStudio.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/VisualStudio.png">
 <!-- HTML -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/HTML.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/HTML.png">
 <!-- CSS -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/CSS.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/CSS.png">
 <!-- SASS -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/SASS.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/SASS.png">
 <!-- JavaScript -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/JavaScript.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/JavaScript.png">
 <!-- jQuery -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/jQuery.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/jQuery.png">
 <!-- TypeScript -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/TypeScript.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/TypeScript.png">
 <!-- React -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ReactJS.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ReactJS.png">
 <!-- TODO: Redux -->
 <!-- TODO: GraphQL -->
 <!-- NodeJS -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/NodeJS.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/NodeJS.png">
 <!-- ExpressJS -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ExpressJS.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ExpressJS.png">
 <!-- GitHub -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitHub.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitHub.png">
 <!-- Git -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/Git.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/Git.png">
 <!-- GitLab -->
-<img src="">
+<img style="display: inline;" src="">
 <!-- MongoDB -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MongoDB.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MongoDB.png">
 <!-- TODO: PostgreSQL -->
 <!-- MySQL -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MySQL.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MySQL.png">
 <!-- WordPress -->
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/WordPress.png">
+<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/WordPress.png">
 
 <!-- 
   TODO: 
