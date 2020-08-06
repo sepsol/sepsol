@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, world! 👋
+<img src="https://github.com/sepsol/sepsol/blob/master/SEPSOL-+-Nature-(Dynamic)_3.gif" width="100%"/>
 
 <!--
 **sepsol/sepsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
