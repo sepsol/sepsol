@@ -1,4 +1,4 @@
-<!-- <img src="./assets/banner/sepsol-nature-banner.gif" width="100%"/> -->
+<!-- https://github.com/sepsol/sepsol/blob/master/ = ./ -->
 <img src="https://github.com/sepsol/sepsol/blob/master/assets/banner/sepsol-nature.gif" width="100%"/>
 
 # Hi, 👋 <br> I'm Sepehr, <br> web developer.
@@ -18,41 +18,25 @@
 ---
 
 ## Languages and Tools:
-<!-- Visual Studio -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/VisualStudio.png">
-<!-- HTML -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/HTML.png">
-<!-- CSS -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/CSS.png">
-<!-- SASS -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/SASS.png">
-<!-- JavaScript -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/JavaScript.png">
-<!-- jQuery -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/jQuery.png">
-<!-- TypeScript -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/TypeScript.png">
-<!-- React -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ReactJS.png">
+![Visual-Studio-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/VisualStudio.png)
+![HTML-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/HTML.png)
+![CSS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/CSS.png)
+![SASS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/SASS.png)
+![JavaScript-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/JavaScript.png)
+![jQuery-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/jQuery.png)
+![TypeScript-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/TypeScript.png)
+![ReactJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ReactJS.png)
 <!-- TODO: Redux -->
 <!-- TODO: GraphQL -->
-<!-- NodeJS -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/NodeJS.png">
-<!-- ExpressJS -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ExpressJS.png">
-<!-- GitHub -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitHub.png">
-<!-- Git -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/Git.png">
-<!-- GitLab -->
-<img style="display: inline;" src="">
-<!-- MongoDB -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MongoDB.png">
+![NodeJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/NodeJS.png)
+![ExpressJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ExpressJS.png)
+![GitHub-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitHub.png)
+![Git-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/Git.png)
+![GitLab-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitLab.png)
+![MongoDB-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MongoDB.png)
 <!-- TODO: PostgreSQL -->
-<!-- MySQL -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MySQL.png">
-<!-- WordPress -->
-<img style="display: inline;" src="https://github.com/sepsol/sepsol/blob/master/assets/icons/png/WordPress.png">
+![MySQL-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MySQL.png)
+![WordPress-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/WordPress.png)
 
 <!-- 
   TODO: 
