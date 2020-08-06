@@ -1,4 +1,5 @@
-<img src="sepsol-nature-banner.gif" width="100%"/>
+<!-- <img src="sepsol-nature-banner.gif" width="100%"/> -->
+<img src="https://github.com/sepsol/sepsol/blob/master/sepsol-nature-banner.gif" width="100%"/>
 
 # Hi, 👋 <br> I'm Sepehr, <br> web developer.
 - 🔭 I'm currently working on a [JavaScript course][course]!
