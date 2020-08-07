@@ -1,7 +1,9 @@
 <!-- https://github.com/sepsol/sepsol/blob/master/ = ./ -->
+
+# Hello, world!
+
 <img src="https://github.com/sepsol/sepsol/blob/master/assets/banner/sepsol-nature.gif" width="100%"/>
 
-<!-- # Hello, world! -->
 - 🔭 I'm currently working on a [JavaScript course][course]!
 - 🌱 I'm currently learning everything web dev 🕺
 - 👯 I'm looking to collaborate on any React and/or JavaScript projects
