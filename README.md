@@ -1,7 +1,7 @@
 <!-- https://github.com/sepsol/sepsol/blob/master/ = ./ -->
 <img src="https://github.com/sepsol/sepsol/blob/master/assets/banner/sepsol-nature.gif" width="100%"/>
 
-# Hi, 👋 <br> I'm Sepehr, <br> web developer.
+# Hello, world!
 - 🔭 I'm currently working on a [JavaScript course][course]!
 - 🌱 I'm currently learning everything web dev 🕺
 - 👯 I'm looking to collaborate on any React and/or JavaScript projects
