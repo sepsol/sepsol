@@ -2,7 +2,7 @@
 
 # Hello, world!
 
-<img src="https://github.com/sepsol/sepsol/blob/master/assets/banner/sepsol-nature.gif" width="100%"/>
+![profile banner](https://github.com/sepsol/sepsol/blob/master/assets/banner/sepsol-nature.gif)
 
 - 🔭 I'm currently working on a [JavaScript course][course]!
 - 🌱 I'm currently learning everything web dev 🕺
@@ -20,22 +20,22 @@
 ---
 
 ## Languages and Tools:
-![Visual-Studio-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/VisualStudio.png)
-![HTML-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/HTML.png)
-![CSS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/CSS.png)
-![SASS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/SASS.png)
-![JavaScript-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/JavaScript.png)
-![jQuery-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/jQuery.png)
-![TypeScript-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/TypeScript.png)
-![ReactJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ReactJS.png)
-![NodeJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/NodeJS.png)
-![ExpressJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ExpressJS.png)
-![GitHub-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitHub.png)
-![Git-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/Git.png)
-![GitLab-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitLab.png)
-![MongoDB-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MongoDB.png)
-![MySQL-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MySQL.png)
-![WordPress-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/WordPress.png)
+![VisualStudio icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/VisualStudio.png)
+![HTML icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/HTML.png)
+![CSS icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/CSS.png)
+![SASS icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/SASS.png)
+![JavaScript icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/JavaScript.png)
+![jQuery icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/jQuery.png)
+![TypeScript icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/TypeScript.png)
+![ReactJS icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ReactJS.png)
+![NodeJS icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/NodeJS.png)
+![ExpressJS icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ExpressJS.png)
+![GitHub icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitHub.png)
+![Git icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/Git.png)
+![GitLab icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitLab.png)
+![MongoDB icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MongoDB.png)
+![MySQL icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MySQL.png)
+![WordPress icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/WordPress.png)
 
 <!-- TODO: Redux // after ReactJS // before: Redux -->
 <!-- TODO: GraphQL // after: Redux // before: NodeJS -->
