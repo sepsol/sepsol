@@ -26,17 +26,18 @@
 ![jQuery-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/jQuery.png)
 ![TypeScript-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/TypeScript.png)
 ![ReactJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ReactJS.png)
-<!-- TODO: Redux -->
-<!-- TODO: GraphQL -->
 ![NodeJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/NodeJS.png)
 ![ExpressJS-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/ExpressJS.png)
 ![GitHub-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitHub.png)
 ![Git-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/Git.png)
 ![GitLab-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/GitLab.png)
 ![MongoDB-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MongoDB.png)
-<!-- TODO: PostgreSQL -->
 ![MySQL-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/MySQL.png)
 ![WordPress-icon](https://github.com/sepsol/sepsol/blob/master/assets/icons/png/WordPress.png)
+
+<!-- TODO: Redux // after ReactJS // before: Redux -->
+<!-- TODO: GraphQL // after: Redux // before: NodeJS -->
+<!-- TODO: PostgreSQL // after: MongoDB // before: MySQL -->
 
 <!-- 
   TODO: 
