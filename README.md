@@ -9,7 +9,7 @@
 - 👯 I'm looking to collaborate on any React and/or JavaScript projects
 - 🎯 My goal for 2020 is to have a richer presence on the internet
 - 💼 Working as a React developer at [hike.studio][hike]
-- 📫 Reach me at [sepsol@techie.com][email] or via:
+- 📫 Reach me at [sepsol.works@gmail.com][email] or via:
 
 [![website-badge]][website]
 [![linkedin-badge]][linkedin]
@@ -59,7 +59,7 @@
   [hike]: https://hike.studio/
   [course]: https://learniaa.com/
 
-  [email]: mailto:sepsol@techie.com
+  [email]: mailto:sepsol.works@gmail.com
   [website]: https://sepsol.github.io/
   [github]: https://github.com/sepsol
   [gitlab]: https://gitlab.com/sepsol
@@ -69,7 +69,7 @@
   [facebook]: https://www.facebook.com/sepsol
   [instagram]: https://www.instagram.com/mr_sepsol/
 
-  [email-badge]: https://img.shields.io/badge/-sepsol@techie.com-004485?style=flat-square&labelColor=004485&logo=Gmail&logoColor=white
+  [email-badge]: https://img.shields.io/badge/-sepsol.works@gmail.com-004485?style=flat-square&labelColor=004485&logo=Gmail&logoColor=white
   [website-badge]: https://img.shields.io/badge/-sepsol.github.io-4E4F4F?style=flat-square&labelColor=4E4F4F&logo=Internet-Explorer&logoColor=white
   [github-badge]: https://img.shields.io/badge/-@sepsol-24292E?style=flat-square&labelColor=24292E&logo=GitHub&logoColor=white
   [gitlab-badge]: https://img.shields.io/badge/-@sepsol-FA7035?style=flat-square&labelColor=FA7035&logo=Gitlab&logoColor=white
