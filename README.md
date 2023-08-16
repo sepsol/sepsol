@@ -4,13 +4,6 @@
 
 ![profile banner](https://github.com/sepsol/sepsol/blob/master/assets/banner/sepsol-nature.gif)
 
-- 🔭 I'm currently working on a [JavaScript course][course]!
-- 🌱 I'm currently learning everything web dev 🕺
-- 👯 I'm looking to collaborate on any React and/or JavaScript projects
-- 🎯 My goal for 2020 is to have a richer presence on the internet
-- 💼 Working as a React developer at [hike.studio][hike]
-- 📫 Reach me at [sepsol.works@gmail.com][email] or via:
-
 [![website-badge]][website]
 [![linkedin-badge]][linkedin]
 [![gitlab-badge]][gitlab]
